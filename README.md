@@ -24,3 +24,6 @@ https://aws.amazon.com/getting-started/hands-on/remotely-run-commands-ec2-instan
 
 Update AWS security group ingress rules using CLI with current IP address
 https://www.youtube.com/watch?v=nEhsiDADJyo
+
+5 Terraform Projects
+https://towardsaws.com/top-5-terraform-projects-for-aws-to-boost-your-resume-easy-intermediate-expert-levels-with-59c5cc67c3e0
